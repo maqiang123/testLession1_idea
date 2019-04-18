@@ -8,4 +8,5 @@ import org.springframework.stereotype.Controller;
 @Controller
 public class UserController {
     int a=2;
+    int b=3;
 }
